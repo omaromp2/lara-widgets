@@ -1,4 +1,5 @@
-# Test 
+# Widgets Laravel Demo
+Project for demo purposes only.  
 # Queries
 ``` 
 SELECT * FROM widgetstore.trans_histories
